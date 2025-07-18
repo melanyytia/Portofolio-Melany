@@ -1,4 +1,4 @@
-# Portofolio Melany YULISTIA
+# Portofolio Melany Yulistia
 
 Selamat datang di website portofolio pribadi saya! 🎓  
 Website ini dibuat untuk menampilkan pengalaman, proyek, dan pencapaian saya selama masa kuliah.
